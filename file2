@@ -1,0 +1,8 @@
+
+How to use the . gitkeep file
+Create an empty folder with the mkdir command.
+Move into the empty directory with the cd command.
+Create the . gitkeep file with the touch . ...
+Use git add . to update the Git index.
+Perform a git commit.
+Push the commit with the empty Git directory to remote repositories such as GitHub or GitLab.
